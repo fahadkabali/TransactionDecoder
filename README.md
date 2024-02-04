@@ -8,7 +8,7 @@ The decoder.js script gives an implementation for decoding Bitcoin transactions 
 
 1. Clone the repository:
 
-        git clone https://github.com/your-username/bitcoin-transaction-decoder.git
+        git clone https://github.com/fahadkabali/TransactionDecoder.git
 
 2. Change into the project directory:
 
