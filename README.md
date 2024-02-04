@@ -20,7 +20,7 @@ The decoder.js script gives an implementation for decoding Bitcoin transactions 
 
 4. Decoding Bitcoin Transactions
         Use the provided script to decode a Bitcoin transaction or replace with the actual hex value of your transaction.
-        node decode_transaction.js YOUR_TRANSACTION_HEX
+        node decoder.js 
 5. Running Tests
         The project folder includes Mocha tests to ensure the correctness of the decoder.
         npm test
